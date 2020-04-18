@@ -1,0 +1,11 @@
+Module: SOFT_6017
+Number of students: 3
+Number of Classes: 10
+Average Attendance: 5.0days
+Low Attender(s): under 70.0%
+        Alan Wilson, Alan Lowe
+Non Attender(s):
+        Alan Wilson
+Best Attender(s):
+        Attended 10/10 days
+        Mary Martin
